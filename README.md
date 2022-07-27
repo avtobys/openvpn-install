@@ -1,0 +1,1 @@
+    sudo /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/avtobys/openvpn-install/main/openvpn-install.sh)"
